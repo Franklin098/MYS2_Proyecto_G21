@@ -1,4 +1,4 @@
 Time(Hours);EntityID;ObjectName;ProcessID;StepName;Action
-0.000555555555555556;AlmacenBotellas;Model;1.LeerExcel;[ExcelWrite] ExcelWrite1;Unable to get value of property 'ExcelWrite.Items.Expression'.
-0.000555555555555556;AlmacenBotellas;Model;1.LeerExcel;[ExcelWrite] ExcelWrite1;Invalid numeric string. String does not parse to any number.
+0.000555555555555556;AlmacenBotellas;Model;1.LeerExcel;[Assign] Assign2;Unable to get value of property 'Assign.Assignments.AssignmentsNewValue'.
+0.000555555555555556;AlmacenBotellas;Model;1.LeerExcel;[Assign] Assign2;Invalid numeric string. String does not parse to any number.
 
