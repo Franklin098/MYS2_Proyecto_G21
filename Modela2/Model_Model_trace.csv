@@ -1,4 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-21.4405555555413,DefaultEntity.38608,Model,0.LeerExcel,[Assign] Assign3,Possible infinite loop detected in process logic
-21.4405555555413,DefaultEntity.38608,Model,0.LeerExcel,[Assign] Assign3,The process 'LeerExcel' has logic that has looped 200000 times without any delay or pause. This may indicate a modeling error. 
+21.4405555555413,DefaultEntity.38798,Model,3.LeerExcel,[Assign] Assign3,Possible infinite loop detected in process logic
+21.4405555555413,DefaultEntity.38798,Model,3.LeerExcel,[Assign] Assign3,The process 'LeerExcel' has logic that has looped 200000 times without any delay or pause. This may indicate a modeling error. 
 
