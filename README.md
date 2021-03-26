@@ -26,14 +26,29 @@ Los resultados de las fases de limpieza y filtrado se guardaron ordenados median
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Modela2/e.jpg?raw=true)
 
 
+## Descripción del Análisis Realizado
 
+Se realizaron pruebas de ajuste para cada uno de los datos agrupados, utilizando la libería de R llamada "distChoose".  Cada uno de los subconjutos de los datos agrupados fue puesto a prueba con el objetivo de encontar la distribución  que mejor reflejara la distrubición de sus frecuencias.
 
 
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/c1.png?raw=true)
 
 
+Los datos resultantes incluyen la distribución elegida, y sus parámetros, que se proceden a guardar en archivos de Excel para su posterior lectura en Simio. 
+
+Por ejemplo para la distribución normal se guarda la media y la desviación estandar.
+
+Para la distrubución gamma se tienen las métricas de Shape y Rate.
+
+Para la distrubución Weibull se tienen las métricas de Shape y Scale.
+
+Se elegieron estas tres distribuciónes debido a que abarcaban un comportamiento distinto en los datos y también se encuentran disponibles dentro del paquete de Simio para su implementación.
+
+
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/c2.png?raw=true)
 
+
+También se grafican los histogramas de frecuencias para algunos de los conjuntos de datos para verificarlos visualmente.
 
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/c3.png?raw=true)
 
