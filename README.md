@@ -89,6 +89,7 @@ A continuación se muestran algunas de las distribuciones para los datos de Qual
 
 * El manejo de estructuras de datos como matrices, tablas y  datasets  es importante para la manipulación de datos en excel, tanto en Simio como en R.
 
+* Realizar un análisis correcto de los datos y el enunciado del problema es parte importante del proceso de simulación y resolución de un problema aplicado a una situación realista que busca ser analizada y mejorada mediante el empleo de simulación y el análisis de datos.
 
 
 
