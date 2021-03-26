@@ -28,6 +28,19 @@ Los resultados de las fases de limpieza y filtrado se guardaron ordenados median
 
 
 
+
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/c1.png?raw=true)
+
+
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/c2.png?raw=true)
+
+
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/c3.png?raw=true)
+
+
+
+
+
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Pareja-B22-Paint_3-Gamma.png?raw=true)
 
 
