@@ -18,7 +18,6 @@ A continuación se puede visualizar el proceso para limpiar y filtrar los datos 
 
 A continuación se puede visualizar el proceso para limpiar y filtrar los datos de la hoja Supplier Data.
 
-![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Modela2/c.jpg?raw=true)
 
 
 Los resultados de las fases de limpieza y filtrado se guardaron ordenados mediante hojas en el archivo final de Excel llamado Final.xlsx. 
@@ -53,7 +52,10 @@ También se grafican los histogramas de frecuencias para algunos de los conjunto
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/c3.png?raw=true)
 
 
+## Gráficas del modelo
 
+
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Modela2/c.jpg?raw=true)
 
 
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Pareja-B22-Paint_3-Gamma.png?raw=true)
@@ -61,6 +63,7 @@ También se grafican los histogramas de frecuencias para algunos de los conjunto
 
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Pareja-B22_SA-SA_Drill_2-Normal.png?raw=true)
 
+A continuación se muestran algunas de las distribuciones para los datos de Quality Data
 
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Pareja-B24_BP-BP_Paint_2-Gamma.png?raw=true)
 
@@ -68,10 +71,25 @@ También se grafican los histogramas de frecuencias para algunos de los conjunto
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Pareja-3-Weibull.png?raw=true)
 
 
+
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Pareja-4-Normal.png?raw=true)
 
 
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Pareja-O24_SA-SA_Assemble_2-Gamma.png?raw=true)
+
+
+## Conclusiones
+
+
+* Utilizando el conector de excel en Simio y procesos iterativos es posible leer la información de los archivos de entrada para su procesamiento, limpieza y ordenamiento.
+
+* Es importante analizar la distribución de los datos en cada uno de los servidores y para cada uno de sus productos a procesar de acuerdo a los conjutos de datos históricos que se tienen, para de esta manera realizar una simulación realista y que entregue resultados coherentes.
+
+* El lenguaje de progamación R provee un paquete completo de funciones y librerías para el análisis de datos de forma sistemática.
+
+* El manejo de estructuras de datos como matrices, tablas y  datasets  es importante para la manipulación de datos en excel, tanto en Simio como en R.
+
+
 
 
 
