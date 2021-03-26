@@ -27,7 +27,7 @@ Los resultados de las fases de limpieza y filtrado se guardaron ordenados median
 # Bom Matrix
 Se muestra el proceso realizado para la lectura de la bom matrix dentro de simio  
 
-![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Modela2/ff.jpg?raw=true)
+![image](https://user-images.githubusercontent.com/37677468/112588316-cac5d000-8dc4-11eb-91ff-eeb14f6be2fa.png)
 
 ## Descripción del Análisis Realizado
 
@@ -83,7 +83,7 @@ A continuación se muestran algunas de las distribuciones para los datos de Qual
   
 
 ## Current State Inventory Policy
-![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Modela2/f.jpg?raw=true)
+![image](https://user-images.githubusercontent.com/37677468/112588350-d9ac8280-8dc4-11eb-8e48-0b1d1a963474.png)
 
 ## Conclusiones
 
