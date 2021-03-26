@@ -24,7 +24,7 @@ Los resultados de las fases de limpieza y filtrado se guardaron ordenados median
 
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Modela2/e.jpg?raw=true)
 
-# Bom Matrix
+### Bom Matrix
 Se muestra el proceso realizado para la lectura de la bom matrix dentro de simio  
 
 ![image](https://user-images.githubusercontent.com/37677468/112588350-d9ac8280-8dc4-11eb-8e48-0b1d1a963474.png)
