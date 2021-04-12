@@ -81,6 +81,17 @@ A continuación se muestran algunas de las distribuciones para los datos de Qual
 
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Pareja-O24_SA-SA_Assemble_2-Gamma.png?raw=true)  
   
+  
+## Modelo Utilizado
+
+# Generador de Componentes 
+
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Captura%20de%20Pantalla%202021-04-11%20a%20la(s)%2023.00.55.png?raw=true)
+
+# Modelo igual al enunciado 
+
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/Captura%20de%20Pantalla%202021-04-11%20a%20la(s)%2023.07.09.png?raw=true)
+
 
 ## Current State Inventory Policy
 ![image](https://user-images.githubusercontent.com/37677468/112588316-cac5d000-8dc4-11eb-91ff-eeb14f6be2fa.png)
