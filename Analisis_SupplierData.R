@@ -1,3 +1,4 @@
+# setwd("~/Documents/Tareas/Modela 2/MYS2_Proyecto_G21")
 require(dplyr)
 require(distChoose)
 require(EnvStats)

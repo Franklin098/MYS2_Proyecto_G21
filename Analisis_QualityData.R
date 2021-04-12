@@ -1,5 +1,5 @@
 #install.packages("readxl")
-
+#options(java.parameters = "-Xmx2000m")
 
 require(dplyr)
 require(distChoose)
@@ -10,20 +10,42 @@ library("readxl")
 
 #raw_data = read_excel("DataFile.xlsx", sheet = "Quality Data")
 
-raw_data = read.xlsx("DataFile.xlsx", 6, header=TRUE)
+#raw_data = read.xlsx("DataFile.xlsx", 6, header=TRUE)
 
-raw_data$Time = raw_data$Inspection.End - raw_data$Inspection.Start
+#raw_data$Time = raw_data$Inspection.End - raw_data$Inspection.Start
 
-datos = na.omit(raw_data)
+#datos = na.omit(raw_data)
 
-datos$Time = as.numeric(datos$Time)
+#datos$Time = as.numeric(datos$Time)
 
 
-materials_and_suppliers = datos[,c("Material","Supplier")]
+#materials_and_suppliers = datos[,c("Material","Supplier")]
 
-print(nrow(materials_and_suppliers))
+#print(nrow(materials_and_suppliers))
 
-unique_pairs = materials_and_suppliers %>% distinct(Material,Supplier)
+#unique_pairs = materials_and_suppliers %>% distinct(Material,Supplier)
+
+# l
+
+#datos = read.xlsx("./Modela2/Final.xlsx", 7, header=FALSE)
+
+datos = read.csv("./Modela2/Agrupamiento2.csv",na.strings = c("","NA"),sep=";",header = FALSE)
+
+colnames(datos) <- c("Order Number","Inspection Start","Inspection End","Material","Supplier","Units Inspected","Units Defective","Time")
+
+print(nrow(datos))
+
+
+#unique_pairs = read.xlsx("./Modela2/Final.xlsx", 6, header=FALSE)
+
+unique_pairs = read.csv("./Modela2/Parejas2.csv",na.strings = c("","NA"),sep=";",header = FALSE)
+
+colnames(unique_pairs) <- c("Material","Supplier")
+
+unique_pairs
+
+# -l
+
 
 print(nrow(unique_pairs))
 
@@ -53,6 +75,16 @@ for(i in 1:dim(unique_pairs)[1]){
   
   dist_name = distributions[[choosen_dist$decision]]
   valor_de_ajuste <- fitdist(pair_values$Time,dist_name)
+  
+  if(i%%3 ==0){
+    file_name=sprintf("Pareja-%i-%s.png",i,choosen_dist$decision)
+    print(file_name)
+    png(file=file_name)
+    hist(pair_values$Time, xlab="Time" , main=file_name)
+    dev.off()
+    system(paste("open ",file_name), wait=FALSE)
+  }
+  
   
   
   excel[i,1] <- sprintf( "%s", material)
