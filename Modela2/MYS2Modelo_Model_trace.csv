@@ -1,6 +1,4 @@
 Time(Hours),EntityID,ObjectName,ProcessID,StepName,Action
-95.5638888889641,--,--,--,--,The maximum number in system limit for entities of type 'MATH34' has been exceeded.
-95.5638888889641,--,--,--,--,Possible causes:
-133.941666666845,--,--,--,--,"The number of active tokens in the simulation has exceeded 100,000 tokens"
-133.941666666845,--,--,--,--,This may indicate that there is a logic problem in the model. See the Details section for specific information about which processes currently have the largest number of active tokens.
+99.0138888889827,--,--,--,--,The maximum number in system limit for entities of type 'MATH34' has been exceeded.
+99.0138888889827,--,--,--,--,Possible causes:
 
