@@ -117,6 +117,7 @@ https://youtu.be/sZQm-eV3R_4
 ![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/cap3.png?raw=true)
 
   
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/cap4.png?raw=true)
 
 ## Conclusiones
 
