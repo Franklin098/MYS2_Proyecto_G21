@@ -98,7 +98,7 @@ A continuación se muestran algunas de las distribuciones para los datos de Qual
 
 ## Video Presenting the Team
 
-https://youtu.be/sZQm-eV3R_4
+https://youtu.be/9yRs-xjL3jw
 
 ## Our Video Solution Explanation
 
