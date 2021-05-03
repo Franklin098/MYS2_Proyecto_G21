@@ -104,6 +104,20 @@ https://youtu.be/9yRs-xjL3jw
 
 https://youtu.be/sZQm-eV3R_4
 
+
+## Modelado
+
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/cap1.png?raw=true)
+
+
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/cap2.png?raw=true)  
+  
+  
+  
+![alt text](https://github.com/Franklin098/MYS2_Proyecto_G21/blob/main/cap3.png?raw=true)
+
+  
+
 ## Conclusiones
 
 
