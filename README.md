@@ -96,6 +96,14 @@ A continuación se muestran algunas de las distribuciones para los datos de Qual
 ## Current State Inventory Policy
 ![image](https://user-images.githubusercontent.com/37677468/112588316-cac5d000-8dc4-11eb-91ff-eeb14f6be2fa.png)
 
+## Video Presenting the Team
+
+https://youtu.be/sZQm-eV3R_4
+
+## Our Video Solution Explanation
+
+https://youtu.be/sZQm-eV3R_4
+
 ## Conclusiones
 
 
